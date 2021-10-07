@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <title>insurance-5</title>
+  <g>
+    <circle cx="18.99" cy="21.33" r="10.67" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
+    <line x1="18.99" y1="8" x2="18.99" y2="10.67" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
+    <line x1="17.22" y1="8" x2="20.77" y2="8" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
+    <polyline points="18.99 12.67 18.99 21.33 21.99 17.33" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
+    <line x1="11.45" y1="13.79" x2="10.56" y2="12.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
+    <line x1="26.53" y1="13.79" x2="27.42" y2="12.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
+  </g>
+</svg>
